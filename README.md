@@ -12,7 +12,3 @@ Recently I've worked on:
 - Real-time product systems with WebSockets, Kafka, and high-scale APIs
 - Backend platforms on Kubernetes, AWS/GCP, Terraform, PostgreSQL, Redis, and gRPC
 - Open-source, blockchain, and infrastructure projects
-
-You can find me here:
-
-- LinkedIn: [linkedin.com/in/sfroment42](https://linkedin.com/in/sfroment42)
